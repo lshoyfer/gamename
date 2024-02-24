@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "gamename_engine",
+    "gamename_binary",
+]
+resolver = "2"
