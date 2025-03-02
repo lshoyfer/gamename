@@ -1,2 +1,2 @@
 # gamename
-Repo containing the library and executable for the game I'm working on, `gamename`.
+Repo containing a basic ggez program I cooked up at some point.
